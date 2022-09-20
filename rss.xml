@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Tue, 20 Sep 2022 13:46:44 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 13:55:17 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
@@ -42,7 +42,7 @@
 &lt;h3 id=&#34;my-first-post&#34;&gt;My First Post.&lt;/h3&gt;
 &lt;h3 id=&#34;just-a-test-post&#34;&gt;Just a test post.&lt;/h3&gt;
 &lt;p&gt;{{google-adsense }}&lt;/p&gt;
-&lt;p&gt;{{google-adsense 3858766941037787 9662496048}}&lt;/p&gt;
+&lt;p&gt;{{ &lt;google-adsense&gt;}}&lt;/p&gt;
 </description>
                 
                 

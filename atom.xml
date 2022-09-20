@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Hugo 主题 MemE</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2022-09-20T13:46:44&#43;08:00</updated>
+    <updated>2022-09-20T13:55:17&#43;08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">First Post</title>
             <link rel="alternate" type="text/html" href="https://example.com/post/first-post/" />
             <id>https://example.com/post/first-post/</id>
-            <updated>2022-09-20T13:46:31&#43;08:00</updated>
+            <updated>2022-09-20T13:54:51&#43;08:00</updated>
             <published>2022-09-20T13:23:28&#43;08:00</published>
             <author>
                     <name>reuixiy</name>
@@ -28,13 +28,13 @@
                     <email>reuixiy@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">Hello , Welcome to My Github Pages. My First Post. Just a test post. {{google-adsense }}
-{{google-adsense 3858766941037787 9662496048}}</summary>
+{{ }}</summary>
             
                 <content type="html">&lt;h3 id=&#34;hello--welcome-to-my-github-pages&#34;&gt;Hello , Welcome to My Github Pages.&lt;/h3&gt;
 &lt;h3 id=&#34;my-first-post&#34;&gt;My First Post.&lt;/h3&gt;
 &lt;h3 id=&#34;just-a-test-post&#34;&gt;Just a test post.&lt;/h3&gt;
 &lt;p&gt;{{google-adsense }}&lt;/p&gt;
-&lt;p&gt;{{google-adsense 3858766941037787 9662496048}}&lt;/p&gt;
+&lt;p&gt;{{ &lt;google-adsense&gt;}}&lt;/p&gt;
 </content>
             
             
