@@ -23,10 +23,37 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Tue, 20 Sep 2022 13:18:17 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 13:25:42 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
+        
+            <item>
+                <title>First Post</title>
+                <link>https://example.com/post/first-post/</link>
+                <guid isPermaLink="true">https://example.com/post/first-post/</guid>
+                <pubDate>Tue, 20 Sep 2022 13:23:28 &#43;0800</pubDate>
+                
+                    <author>reuixiy@gmail.com (reuixiy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h3 id=&#34;hello--welcome-to-my-github-pages&#34;&gt;Hello , Welcome to My Github Pages.&lt;/h3&gt;
+&lt;h3 id=&#34;my-first-post&#34;&gt;My First Post&lt;/h3&gt;
+&lt;h3 id=&#34;just-a-test-post&#34;&gt;Just a test post.&lt;/h3&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
     </channel>
 </rss>
