@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Tue, 20 Sep 2022 13:55:17 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 14:04:03 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
@@ -41,8 +41,17 @@
                     <description>&lt;h3 id=&#34;hello--welcome-to-my-github-pages&#34;&gt;Hello , Welcome to My Github Pages.&lt;/h3&gt;
 &lt;h3 id=&#34;my-first-post&#34;&gt;My First Post.&lt;/h3&gt;
 &lt;h3 id=&#34;just-a-test-post&#34;&gt;Just a test post.&lt;/h3&gt;
-&lt;p&gt;{{google-adsense }}&lt;/p&gt;
-&lt;p&gt;{{ &lt;google-adsense&gt;}}&lt;/p&gt;
+&lt;p&gt;{{ &lt;google-adsense&gt; }}&lt;/p&gt;
+&lt;script async src=&#34;https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3858766941037787&#34;
+     crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;ins class=&#34;adsbygoogle&#34;
+     style=&#34;display:block&#34;
+     data-ad-format=&#34;autorelaxed&#34;
+     data-ad-client=&#34;ca-pub-3858766941037787&#34;
+     data-ad-slot=&#34;9662496048&#34;&gt;&lt;/ins&gt;
+&lt;script&gt;
+     (adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
 </description>
                 
                 
