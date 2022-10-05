@@ -2,17 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://YPBlog.cn/post/</loc>
-    <lastmod>2022-10-05T23:27:12+08:00</lastmod>
-  </url><url>
-    <loc>https://YPBlog.cn/</loc>
-    <lastmod>2022-10-05T23:27:12+08:00</lastmod>
-  </url><url>
-    <loc>https://YPBlog.cn/post/how-to-put-markdown-to-wechat/</loc>
-    <lastmod>2022-10-05T23:27:12+08:00</lastmod>
-  </url><url>
     <loc>https://YPBlog.cn/categories/</loc>
+    <lastmod>2022-10-06T00:37:31+08:00</lastmod>
+  </url><url>
+    <loc>https://YPBlog.cn/tags/django/</loc>
+    <lastmod>2022-10-06T00:37:31+08:00</lastmod>
+  </url><url>
+    <loc>https://YPBlog.cn/post/django-uwsgi-nginx/</loc>
+    <lastmod>2022-10-06T00:37:31+08:00</lastmod>
+  </url><url>
+    <loc>https://YPBlog.cn/tags/nginx/</loc>
+    <lastmod>2022-10-06T00:37:31+08:00</lastmod>
+  </url><url>
+    <loc>https://YPBlog.cn/post/</loc>
+    <lastmod>2022-10-06T00:37:31+08:00</lastmod>
+  </url><url>
+    <loc>https://YPBlog.cn/tags/python/</loc>
+    <lastmod>2022-10-06T00:37:31+08:00</lastmod>
+  </url><url>
+    <loc>https://YPBlog.cn/categories/python/</loc>
+    <lastmod>2022-10-06T00:37:31+08:00</lastmod>
   </url><url>
     <loc>https://YPBlog.cn/tags/</loc>
+    <lastmod>2022-10-06T00:37:31+08:00</lastmod>
+  </url><url>
+    <loc>https://YPBlog.cn/</loc>
+    <lastmod>2022-10-06T00:37:31+08:00</lastmod>
+  </url><url>
+    <loc>https://YPBlog.cn/tags/markdown/</loc>
+    <lastmod>2022-10-06T00:23:24+08:00</lastmod>
+  </url><url>
+    <loc>https://YPBlog.cn/categories/markdown/</loc>
+    <lastmod>2022-10-06T00:23:24+08:00</lastmod>
+  </url><url>
+    <loc>https://YPBlog.cn/post/how-to-put-markdown-to-wechat/</loc>
+    <lastmod>2022-10-06T00:23:24+08:00</lastmod>
+  </url><url>
+    <loc>https://YPBlog.cn/series/</loc>
   </url>
 </urlset>
