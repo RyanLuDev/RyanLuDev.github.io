@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on YP&#39;s Blog</title>
-    <link>https://YPBlog.cn/tags/</link>
-    <description>Recent content in Tags on YP&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2008–2022, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://YPBlog.cn/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tags on YP's Blog</title><link>http://ypblog.cn/tags/</link><description>Recent content in Tags on YP's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://ypblog.cn/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
