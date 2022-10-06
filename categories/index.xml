@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on YP&#39;s Blog</title>
+    <link>https://YPBlog.cn/categories/</link>
+    <description>Recent content in Categories on YP&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2022, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://YPBlog.cn/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
