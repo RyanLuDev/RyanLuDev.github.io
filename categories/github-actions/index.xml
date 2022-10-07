@@ -8,15 +8,27 @@
 3.利用 &lt;!-- raw HTML omitted -->GitHub Actions&lt;!-- raw HTML omitted --> SCP服务推送Github仓库下的 public 到远端服务器的web目录&lt;/p>
 &lt;h2 id="创建actions">创建Actions&lt;/h2>
 &lt;p>前面我们已经提到先将Hugo生成的public文件夹整体推到了Github，接下来就是创建 &lt;!-- raw HTML omitted -->GitHub Actions&lt;!-- raw HTML omitted -->&lt;br>
-&lt;img src="https://pic.yqqy.top/blog/1.png"
+&lt;img src="/archives/github-actions-aliyun/1.png"
+width="917"
+height="286"
+srcset="/archives/github-actions-aliyun/1_hu2b9cc84528eda76cee69d28ce2d2362a_29725_480x0_resize_box_3.png 480w, /archives/github-actions-aliyun/1_hu2b9cc84528eda76cee69d28ce2d2362a_29725_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 alt="Github Actions"
+class="gallery-image"
+data-flex-grow="320"
+data-flex-basis="769px"
 >&lt;/p>
-&lt;h2 id="创建actions-1">创建Actions&lt;/h2>
+&lt;h2 id="配置文件">配置文件&lt;/h2>
 &lt;p>连接SSH的选择一个Star比较多的，如下图&lt;br>
-&lt;img src="https://pic.yqqy.top/blog/2.png"
+&lt;img src="/archives/github-actions-aliyun/2.png"
+width="1920"
+height="969"
+srcset="/archives/github-actions-aliyun/2_hub7f26324c0c137f8c56182ed45b080ba_210648_480x0_resize_box_3.png 480w, /archives/github-actions-aliyun/2_hub7f26324c0c137f8c56182ed45b080ba_210648_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 alt="SSH"
+class="gallery-image"
+data-flex-grow="198"
+data-flex-basis="475px"
 >&lt;br>
 这边我贴一下我配置好的：&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
@@ -94,9 +106,15 @@ alt="SSH"
 &lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;h2 id="删除远端目录">删除远端目录&lt;/h2>
-&lt;p>&lt;img src="https://pic.yqqy.top/blog/20200830210144.png"
+&lt;p>&lt;img src="/archives/github-actions-aliyun/3.png"
+width="802"
+height="484"
+srcset="/archives/github-actions-aliyun/3_hu0340d127c4309a331fb9bd8424f7108b_24533_480x0_resize_box_3.png 480w, /archives/github-actions-aliyun/3_hu0340d127c4309a331fb9bd8424f7108b_24533_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 alt="DELTE"
+class="gallery-image"
+data-flex-grow="165"
+data-flex-basis="397px"
 >&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
@@ -115,13 +133,25 @@ alt="DELTE"
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;h2 id="secrets添加">Secrets添加&lt;/h2>
-&lt;p>&lt;img src="https://pic.yqqy.top/blog/20200830204924.png"
+&lt;p>&lt;img src="/archives/github-actions-aliyun/4.png"
+width="1298"
+height="551"
+srcset="/archives/github-actions-aliyun/4_hua16c97c99efc3d6816b0475524fb3c3a_70550_480x0_resize_box_3.png 480w, /archives/github-actions-aliyun/4_hua16c97c99efc3d6816b0475524fb3c3a_70550_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 alt="Secrets"
+class="gallery-image"
+data-flex-grow="235"
+data-flex-basis="565px"
 >&lt;/p>
 &lt;h2 id="推送">推送&lt;/h2>
 &lt;p>点击右上角保存即可，这样每次只需要在本地将文章推到GitHub就可以自动部署到服务器了。&lt;br>
-&lt;img src="https://pic.yqqy.top/blog/20200830205650.png"
+&lt;img src="/archives/github-actions-aliyun/5.png"
+width="1579"
+height="851"
+srcset="/archives/github-actions-aliyun/5_hu6bca2a38e23c687fb15f78c97963b5f9_179210_480x0_resize_box_3.png 480w, /archives/github-actions-aliyun/5_hu6bca2a38e23c687fb15f78c97963b5f9_179210_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 alt="Push"
+class="gallery-image"
+data-flex-grow="185"
+data-flex-basis="445px"
 >&lt;/p></description></item></channel></rss>

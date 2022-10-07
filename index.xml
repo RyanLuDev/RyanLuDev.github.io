@@ -8,15 +8,27 @@
 3.利用 &lt;!-- raw HTML omitted -->GitHub Actions&lt;!-- raw HTML omitted --> SCP服务推送Github仓库下的 public 到远端服务器的web目录&lt;/p>
 &lt;h2 id="创建actions">创建Actions&lt;/h2>
 &lt;p>前面我们已经提到先将Hugo生成的public文件夹整体推到了Github，接下来就是创建 &lt;!-- raw HTML omitted -->GitHub Actions&lt;!-- raw HTML omitted -->&lt;br>
-&lt;img src="https://pic.yqqy.top/blog/1.png"
+&lt;img src="/archives/github-actions-aliyun/1.png"
+width="917"
+height="286"
+srcset="/archives/github-actions-aliyun/1_hu2b9cc84528eda76cee69d28ce2d2362a_29725_480x0_resize_box_3.png 480w, /archives/github-actions-aliyun/1_hu2b9cc84528eda76cee69d28ce2d2362a_29725_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 alt="Github Actions"
+class="gallery-image"
+data-flex-grow="320"
+data-flex-basis="769px"
 >&lt;/p>
-&lt;h2 id="创建actions-1">创建Actions&lt;/h2>
+&lt;h2 id="配置文件">配置文件&lt;/h2>
 &lt;p>连接SSH的选择一个Star比较多的，如下图&lt;br>
-&lt;img src="https://pic.yqqy.top/blog/2.png"
+&lt;img src="/archives/github-actions-aliyun/2.png"
+width="1920"
+height="969"
+srcset="/archives/github-actions-aliyun/2_hub7f26324c0c137f8c56182ed45b080ba_210648_480x0_resize_box_3.png 480w, /archives/github-actions-aliyun/2_hub7f26324c0c137f8c56182ed45b080ba_210648_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 alt="SSH"
+class="gallery-image"
+data-flex-grow="198"
+data-flex-basis="475px"
 >&lt;br>
 这边我贴一下我配置好的：&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
@@ -94,9 +106,15 @@ alt="SSH"
 &lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;h2 id="删除远端目录">删除远端目录&lt;/h2>
-&lt;p>&lt;img src="https://pic.yqqy.top/blog/20200830210144.png"
+&lt;p>&lt;img src="/archives/github-actions-aliyun/3.png"
+width="802"
+height="484"
+srcset="/archives/github-actions-aliyun/3_hu0340d127c4309a331fb9bd8424f7108b_24533_480x0_resize_box_3.png 480w, /archives/github-actions-aliyun/3_hu0340d127c4309a331fb9bd8424f7108b_24533_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 alt="DELTE"
+class="gallery-image"
+data-flex-grow="165"
+data-flex-basis="397px"
 >&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
@@ -115,62 +133,28 @@ alt="DELTE"
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;h2 id="secrets添加">Secrets添加&lt;/h2>
-&lt;p>&lt;img src="https://pic.yqqy.top/blog/20200830204924.png"
+&lt;p>&lt;img src="/archives/github-actions-aliyun/4.png"
+width="1298"
+height="551"
+srcset="/archives/github-actions-aliyun/4_hua16c97c99efc3d6816b0475524fb3c3a_70550_480x0_resize_box_3.png 480w, /archives/github-actions-aliyun/4_hua16c97c99efc3d6816b0475524fb3c3a_70550_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 alt="Secrets"
+class="gallery-image"
+data-flex-grow="235"
+data-flex-basis="565px"
 >&lt;/p>
 &lt;h2 id="推送">推送&lt;/h2>
 &lt;p>点击右上角保存即可，这样每次只需要在本地将文章推到GitHub就可以自动部署到服务器了。&lt;br>
-&lt;img src="https://pic.yqqy.top/blog/20200830205650.png"
+&lt;img src="/archives/github-actions-aliyun/5.png"
+width="1579"
+height="851"
+srcset="/archives/github-actions-aliyun/5_hu6bca2a38e23c687fb15f78c97963b5f9_179210_480x0_resize_box_3.png 480w, /archives/github-actions-aliyun/5_hu6bca2a38e23c687fb15f78c97963b5f9_179210_1024x0_resize_box_3.png 1024w"
 loading="lazy"
 alt="Push"
->&lt;/p></description></item><item><title>Chinese Test</title><link>/archives/test-chinese/</link><pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate><guid>/archives/test-chinese/</guid><description>&lt;h2 id="正文测试">正文测试&lt;/h2>
-&lt;p>而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 我们不得不面对一个非常尴尬的事实，那就是， 可是，即使是这样，学生会退会的出现仍然代表了一定的意义。 学生会退会，发生了会如何，不发生又会如何。 经过上述讨论， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 学生会退会，到底应该如何实现。 这样看来， 在这种困难的抉择下，本人思来想去，寝食难安。 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 就我个人来说，学生会退会对我的意义，不能不说非常重大。 莎士比亚曾经提到过，人的一生是短的，但如果卑劣地过这一生，就太长了。这似乎解答了我的疑惑。 莫扎特说过一句富有哲理的话，谁和我一样用功，谁就会和我一样成功。这启发了我， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 学生会退会，到底应该如何实现。 一般来说， 从这个角度来看， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 在这种困难的抉择下，本人思来想去，寝食难安。 了解清楚学生会退会到底是一种怎么样的存在，是解决一切问题的关键。 一般来说， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 问题的关键究竟为何？ 而这些并不是完全重要，更加重要的问题是。&lt;/p>
-&lt;p>奥斯特洛夫斯基曾经说过，共同的事业，共同的斗争，可以使人们产生忍受一切的力量。　带着这句话，我们还要更加慎重的审视这个问题： 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 带着这些问题，我们来审视一下学生会退会。 我认为， 我认为， 在这种困难的抉择下，本人思来想去，寝食难安。 问题的关键究竟为何？ 每个人都不得不面对这些问题。 在面对这种问题时， 要想清楚，学生会退会，到底是一种怎么样的存在。 我认为， 既然如此， 每个人都不得不面对这些问题。 在面对这种问题时， 那么， 我认为， 学生会退会因何而发生。&lt;/p>
-&lt;h2 id="引用">引用&lt;/h2>
-&lt;blockquote>
-&lt;p>思念是最暖的忧伤像一双翅膀&lt;br>
-让我停不了飞不远在过往游荡&lt;br>
-不告而别的你 就算为了我着想&lt;br>
-这么沉痛的呵护 我怎么能翱翔&lt;/p>
-&lt;p>&lt;em>&lt;a class="link" href="https://www.youtube.com/watch?v=3aypp_YlBzI" target="_blank" rel="noopener"
->最暖的憂傷 - 田馥甄&lt;/a>&lt;/em>&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="图片">图片&lt;/h2>
-&lt;p>&lt;img src="/florian-klauer-nptLmg6jqDo-unsplash.jpg"
-loading="lazy"
-alt="Photo by Florian Klauer on Unsplash"
-> &lt;img src="/archives/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg"
-width="1000"
-height="667"
-srcset="/archives/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu0a3f1163de68d0b9471979ebf0ecf11e_32400_480x0_resize_q75_box.jpg 480w, /archives/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu0a3f1163de68d0b9471979ebf0ecf11e_32400_1024x0_resize_q75_box.jpg 1024w"
-loading="lazy"
-alt="Photo by Luca Bravo on Unsplash"
 class="gallery-image"
-data-flex-grow="149"
-data-flex-basis="359px"
->&lt;/p>
-&lt;p>&lt;img src="/helena-hertz-wWZzXlDpMog-unsplash.jpg"
-loading="lazy"
-alt="Photo by Helena Hertz on Unsplash"
-> &lt;img src="/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg"
-loading="lazy"
-alt="Photo by Hudai Gayiran on Unsplash"
->&lt;/p>
-&lt;div class="highlight">&lt;div class="chroma">
-&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
-&lt;/span>&lt;span class="lnt">2
-&lt;/span>&lt;span class="lnt">3
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td class="lntd">
-&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">![&lt;span class="nt">Photo by Florian Klauer on Unsplash&lt;/span>](&lt;span class="na">florian-klauer-nptLmg6jqDo-unsplash.jpg&lt;/span>) ![&lt;span class="nt">Photo by Luca Bravo on Unsplash&lt;/span>](&lt;span class="na">luca-bravo-alS7ewQ41M8-unsplash.jpg&lt;/span>)
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">![&lt;span class="nt">Photo by Helena Hertz on Unsplash&lt;/span>](&lt;span class="na">helena-hertz-wWZzXlDpMog-unsplash.jpg&lt;/span>) ![&lt;span class="nt">Photo by Hudai Gayiran on Unsplash&lt;/span>](&lt;span class="na">hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&lt;/span>)
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>相册语法来自 &lt;a class="link" href="https://typlog.com/" target="_blank" rel="noopener"
->Typlog&lt;/a>&lt;/p></description></item><item><title>Archives</title><link>/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>/archives/</guid><description/></item><item><title>Markdown Syntax Guide</title><link>/archives/markdown-syntax-guide/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>/archives/markdown-syntax-guide/</guid><description>&lt;img src="/archives/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" />&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
+data-flex-grow="185"
+data-flex-basis="445px"
+>&lt;/p></description></item><item><title>Archives</title><link>/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>/archives/</guid><description/></item><item><title>Markdown Syntax Guide</title><link>/archives/markdown-syntax-guide/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>/archives/markdown-syntax-guide/</guid><description>&lt;img src="/archives/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" />&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
 &lt;h2 id="headings">Headings&lt;/h2>
 &lt;p>The following HTML &lt;code>&amp;lt;h1&amp;gt;&lt;/code>—&lt;code>&amp;lt;h6&amp;gt;&lt;/code> elements represent six levels of section headings. &lt;code>&amp;lt;h1&amp;gt;&lt;/code> is the highest section level while &lt;code>&amp;lt;h6&amp;gt;&lt;/code> is the lowest.&lt;/p>
 &lt;h1 id="h1">H1&lt;/h1>
