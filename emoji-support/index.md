@@ -1267,3 +1267,4 @@ Emoji 可以通过多种方式在 Hugo 项目中启用.
 | :south_africa: | `south_africa` | :zambia: | `zambia` |
 | :zimbabwe: | `zimbabwe` | | |
 
+{{ google-adsense-01 }}

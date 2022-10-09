@@ -753,3 +753,5 @@ Content for chapter one.
 **DoIt** 主题提供了一个包含更多功能的 [图片的 shortcode](../theme-documentation-extended-shortcodes#image).
 {{< /admonition >}}
 
+{{ google-adsense-01 }}
+
