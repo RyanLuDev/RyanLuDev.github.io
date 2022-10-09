@@ -125,4 +125,4 @@ title: "Offline"
 
 如果你在配置过程中有任何问题, 你可以通过浏览器调试工具中的 `Console` 与 `Application` 面板来进行调试.你也可以用[PWA Builder](https://www.pwabuilder.com/)来检查你的网站以获得更多信息.你可以创建一个 [discussion](https://github.com/HEIGE-PCloud/DoIt/discussions) 来获得社区帮助或者提交 [issue](https://github.com/HEIGE-PCloud/DoIt/issues) 来报告你遇到的任何 bug.
 
-{{ google-adsense-01 }}
+{{< google-adsense-01 >}}

@@ -29,4 +29,5 @@
 ```
 
 相册语法来自 [Typlog](https://typlog.com/)
-{{ google-adsense-01 }}
+
+{{< google-adsense-01 >}}
