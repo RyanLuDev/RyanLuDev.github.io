@@ -56,5 +56,5 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 > nuitka --mingw64 main.py
 ```
 可以看到这次成功了，在test_code目录下新生成了一个exe可执行文件。
- 
+ {{< amazon >}}
 {{< google-adsense-01 >}}
