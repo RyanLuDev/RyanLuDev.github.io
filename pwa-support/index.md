@@ -115,14 +115,12 @@ title: "Offline"
 
 如果一切顺利, 现在当你访问你的网站时, 浏览器将显示一个安装按钮.
 
-{{< image src="https://raw.githubusercontent.com/RyanLuDev/ypblog-img/main/Install-PWA.webp" caption="安装 PWA" height="693px" width="419px">}}
+{{< image src="./Install-PWA.webp" caption="安装 PWA" height="693px" width="419px">}}
 
 单击“安装”后, 你的网站将被安装为一个本地的原生应用程序.
 
-{{< image src="https://raw.githubusercontent.com/RyanLuDev/ypblog-img/main/Installed-PWA.webp" caption="安装完成" height="1575px" width="1321px">}}
+{{< image src="./Installed-PWA.webp" caption="安装完成" height="1575px" width="1321px">}}
 
 大功告成！你已成功将你的静态网站配置为了一个 PWA 🎉
 
 如果你在配置过程中有任何问题, 你可以通过浏览器调试工具中的 `Console` 与 `Application` 面板来进行调试.你也可以用[PWA Builder](https://www.pwabuilder.com/)来检查你的网站以获得更多信息.你可以创建一个 [discussion](https://github.com/HEIGE-PCloud/DoIt/discussions) 来获得社区帮助或者提交 [issue](https://github.com/HEIGE-PCloud/DoIt/issues) 来报告你遇到的任何 bug.
-
-{{< google-adsense-01 >}}
