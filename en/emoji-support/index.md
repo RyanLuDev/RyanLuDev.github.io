@@ -1266,3 +1266,4 @@ The following **cheat sheet** is a useful reference for emoji shorthand codes.
 | :south_africa: | `south_africa` | :zambia: | `zambia` |
 | :zimbabwe: | `zimbabwe` | | |
 
+{{< ypblogads >}}

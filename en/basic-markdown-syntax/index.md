@@ -746,3 +746,4 @@ With a reference later in the document defining the URL location:
 **DoIt** theme has [special shortcode for image](../theme-documentation-extended-shortcodes#image), which provides more features.
 {{< /admonition >}}
 
+{{< ypblogads >}}
