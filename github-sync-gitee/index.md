@@ -2,7 +2,7 @@
 
 相信有很多以 Github 为主阵地的开发者，都同样拥有一个镜像备份的心。比如我就偶尔使用 Gitee 同步 Github，对 Gitee 已有强大的“从 Github/Gitlab 导入仓库”和“项目名旁边的刷新按钮点击同步”功能非常满意，但是认识到 Github Actions 的强大和便捷后，仍忍不住要搞一些小轮子（小动作）。最终发现：站在巨人的肩膀上真香，感谢 [Yikun/hub-mirror-action](https://github.com/Yikun/hub-mirror-action) 项目让这个备份的目标又进一步。
 
-### sync2gitee.yml
+## sync2gitee.yml
 点击查看仓库上的代码文件[sync2gitee.yml](https://github.com/gyx8899/actionsflow/blob/main/workflows/sync2gitee.yml)  
 ```yaml
 # 通过 Github actions， 在 Github 仓库的每一次 commit 后自动同步到 Gitee 上
@@ -44,7 +44,7 @@ jobs:
           # black_list: 'repo_name,repo_name2'
           # white_list: 'repo_name,repo_name2'
 ```
-### 自动同步
+## 自动同步
 在 Gitee 账户中，通过 +下拉列表中的 “从 Github/Gitlab 导入仓库”，导入要同步的 Github 仓库；
 在 Github 需要同步的仓库上添加 3 个 secrets: (Setting -> Secrets -> New repository secret)
 * GITEE_USER，比如个人的 Gitee user ID
