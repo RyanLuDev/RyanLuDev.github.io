@@ -20,4 +20,5 @@ Gem 插件中带的 Markdown 功能支持的语法有限，如表格、流程图
 ![Onenote Markdown](onenote-markdown.webp)  
 虽然比起直接在 OneNote 中转换多了一步操作，倒也不麻烦，但是编辑体验更好，而且可以完整保留原编辑器的渲染样式。  
 # 结语
-OneNote 支持 Markdown 的方法现在就这两个，体验还可以。Gem 插件比较方便，导出富文本粘贴的话样式更好看。
+OneNote 支持 Markdown 的方法现在就这两个，体验还可以。Gem 插件比较方便，导出富文本粘贴的话样式更好看。  
+{{< ypblogads >}}
