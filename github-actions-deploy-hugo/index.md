@@ -61,7 +61,7 @@ ssh-keygen -t rsa -b 4096 -C "$(git config user.email)" -f gh-pages -N ""
 https://github.com/\<YourName>/\<YourName>.github.io/settings/keys/new  
 表单中的 <font color='Coral'>Title</font> 随意填写，将刚才生成的 <font color='Coral'>gh-pages.pub</font> 文件内容填入 <font color='Coral'>Key</font> 中，勾选 <font color='Coral'>Allow write access</font>，点击 <font color='Coral'>Add key</font> 按钮保存。
 
-访问如下地址设置 <font color='Coral'>Private key</font>：
+访问如下地址设置 <font color='Coral'>Private key</font>：  
 
 https://github.com/\<YourName>/pages-hugo-source/settings/secrets/actions/new
 表单中的 <font color='Coral'>Name</font> 填入 <font color='Coral'>DEPLOY_TOKEN</font>，将刚才生成的 <font color='Coral'>gh-pages</font> 文件内容填入 <font color='Coral'>Value</font> 中，点击 <font color='Coral'>Add secret</font> 按钮保存。
