@@ -8,7 +8,7 @@ OneNote 辅助插件 Gem 里包含了 Markdown 转换功能，可以一键在 Ma
 插件官网：[Gem for OneNote](https://www.onenotegem.com/a/addins/gem-for-onenote.html)  
 ## 使用
 官网下载并安装插件，然后打开 OneNote，工具栏中会出现一个 “珍” 标签 - 标记文本。文本框中编辑 Markdown 文本后，点击 “标记文本” 按钮，即可转换为 OneNote 正常文本，再次点击切换回 Markdown。  
-![OneNote Markdown](onenote-markdonw.gif)  
+![OneNote Markdown](onenote-markdown.gif)  
 语法支持：标题、引用、列表、图片、链接、分隔线、代码块、待办清单、文本样式（粗体、斜体、行内代码）等……
 ## 高级语法支持
 Gem 插件中带的 Markdown 功能支持的语法有限，如表格、流程图、目录、代码高亮、数学公式、LaTeX 等语法，需要安装专门的 One Markdown 独立客户端链接 OneNote 使用。  
